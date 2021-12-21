@@ -26,7 +26,6 @@ if(b_new){
 }else{
 	out.print("아니요");
 }
-
 %>
 
 
