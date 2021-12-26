@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+Hello This is Main Page
 <%
 	if(session.getAttribute("loginUser") == null){
 		response.sendRedirect("02_loginForm.jsp");
