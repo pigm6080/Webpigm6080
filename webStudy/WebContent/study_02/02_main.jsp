@@ -8,6 +8,7 @@
 </head>
 <body>
 Hello This is Main Page
+my nameis parkhunwoo
 <%
 	if(session.getAttribute("loginUser") == null){
 		response.sendRedirect("02_loginForm.jsp");
