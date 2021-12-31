@@ -12,7 +12,9 @@ if(age <=19){
 }else{
 	request.setAttribute("name", "박현우");
 	RequestDispatcher dis = request.getRequestDispatcher("forwoardm.jsp");
+	
 	dis.forward(request, response);
+	
 	
 }
 
