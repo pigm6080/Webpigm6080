@@ -15,7 +15,6 @@ if(age <=19){
 	
 	dis.forward(request, response);
 	
-	
 }
 
 %>
