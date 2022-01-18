@@ -7,14 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> 01 _ javascript</h1>
-<script>
-	var today = new Date();
-	
-	document.write(today);
-	
-</script>
-
+<h1>This is main from</h1>
+<a href="toA.jsp?name=hello&age=12&kg=50">toago</a>
+<a href="toA.jsp?name=asdasd&age=12&kg=50">toago</a>
+<a href="toA.jsp?name=hfgvfdso&age=12&kg=50">toago</a>
 
 </body>
 </html>
